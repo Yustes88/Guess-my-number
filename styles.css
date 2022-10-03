@@ -28,6 +28,8 @@ header {
 
 .title {
     position: absolute;
+    width: 100%;
+    text-align: center;
     left: 50%;
     top: 35%;
     font-size: 4rem;
@@ -35,7 +37,8 @@ header {
 }
 
 .button {
-    width: 10vw;
+    background-color: antiquewhite;
+    border: none;
     font-family: inherit;
     font-size: 2rem;
     padding: 2rem 1rem;
